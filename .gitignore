@@ -8,5 +8,8 @@ output
 data/coco
 backup
 weights/*.weights
+weights/darknet*
 __pycache__
 checkpoints
+.venv
+.vscode
